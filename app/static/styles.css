@@ -1,0 +1,41 @@
+body{
+	font:15px/1.5 Arial,Helvetica,sans-serif;
+	padding: 5px;
+	background-color:#DCE1E3;
+}
+
+.container{
+	width:100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+header{
+	background:#333333;
+	border-bottom:#6D6D64 4px solid;
+	height:80px;
+	width:100%;
+	padding-top:20px;
+	
+}
+
+#heading{
+	float:left;
+	font-size:30px;
+	color: #fff;
+	margin: 10px;
+}
+
+header h2{
+	text-align:center;
+	color:#fff;
+}
+
+.btn-info {
+	background-color: #24a0ed;
+	height:52px;
+	width:100px;
+}
+.btn-info:hover {
+	background: #0b7dda;
+}
